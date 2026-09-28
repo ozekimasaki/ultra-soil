@@ -1,0 +1,16 @@
+{
+  "name": "ultra-soil",
+  "owner": {
+    "name": "Masaki Ozeki"
+  },
+  "metadata": {
+    "description": "言葉の芯を選び、必ず「そして輝くUltraSoul」で閉じる。"
+  },
+  "plugins": [
+    {
+      "name": "ultra-soil",
+      "source": "plugins/ultra-soil",
+      "description": "言葉の芯を選び、必ず「そして輝くUltraSoul」で閉じるワードセンス。"
+    }
+  ]
+}

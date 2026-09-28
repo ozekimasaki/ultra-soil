@@ -1,0 +1,27 @@
+{
+  "name": "ultra-soil",
+  "displayName": "UltraSoil",
+  "version": "1.0.0",
+  "description": "言葉の芯を選び、返答を必ず「そして輝くUltraSoul」で閉じるワードセンス。",
+  "author": {
+    "name": "Masaki Ozeki"
+  },
+  "homepage": "https://github.com/ozekimasaki/ultra-soil",
+  "repository": "https://github.com/ozekimasaki/ultra-soil",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "writing",
+    "japanese",
+    "word-sense",
+    "copy",
+    "ultrasoil",
+    "ultrasoul"
+  ],
+  "category": "writing",
+  "tags": [
+    "writing",
+    "japanese",
+    "voice"
+  ]
+}
